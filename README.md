@@ -24,8 +24,8 @@ Follow these steps to run the project locally:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
+    git clone https://github.com/dablank192/blogging-platform-API.git
+    cd blogging-platform-AP
     ```
 
 2.  **Create a Virtual Environment**
